@@ -6,5 +6,5 @@ termux-setup-storage
 apt install git
 
 git clone https://github.com/<you>/rooh.git
-cd rooh
-python rooh.py
+cd roohkey
+python3 rooh.py
