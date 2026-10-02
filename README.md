@@ -4,7 +4,7 @@ pkg install -y python git
 pip install requests
 termux-setup-storage
 
-git clone https://github.com/cadetrooh/rooh.git
+git clone https://github.com/cadetrooh/roohkey.git
 cd roohkey
 python3 rooh.py
 ```
